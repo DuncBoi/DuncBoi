@@ -1,6 +1,6 @@
 ### Hi, I'm Duncan Greene
 
-Im Computer Science student at Columbia University interested in Machine Learning
+Im a senior Computer Science and Statistics student at Columbia University 
 
 #### Stats
 
